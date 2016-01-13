@@ -1,0 +1,43 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Diagnóstico Codecademy</title>
+</head>
+<body>
+  <h1>Jesenia Rodríguez Paredes </h1>
+  <img src="https://adrianopivy.files.wordpress.com/2014/09/maxresdefault.jpg"width='250' height='250'/>
+  
+<TABLE >
+	<TR>
+		<Th>Biografía:</Th> <Td>Nací el 16 de Diciembre de 1990 en Lima, en el distrito de Comas</Td> 
+	</TR>
+	<TR>
+		<Th>Hobbies:</Th> <TD>
+      <ul>
+        <li type="disc">En mi tiempo libre veo muchas pelis y series.</li>
+        <li type="disc">le rasco la pancita a mis perritos.</li> 
+        <dt><li type="disc">Cocino como los dioses.</li>
+        <ul>
+          <li type="circle">Huancaina</li>
+          <li type="circle">causa</li>
+          <li type="circle">Ají de gallina</li>
+        
+        </dt>
+        
+      </ul>  
+        </TD> 
+	</TR>
+	<TR>
+		<Th>Sueños:</Th> <TD>
+      <ol>
+        <li>Mi sueño es resolver un problema que ayude a mejorar la vida de las personas.</li>
+        <li>Aportar conocimiento a la humanidad.</li>
+        <li> En otras palabras "dejar huella".</li>
+      </ol>
+        </TD> 
+	</TR>
+  
+</TABLE>	  
+</body>
+</html>
